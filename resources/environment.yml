@@ -2,12 +2,12 @@ name: dsc80
 channels:
   - conda-forge
 dependencies:
-  - python=3.10
+  - python=3.11
   - pip=24.2
   - beautifulsoup4=4.12.3
   - docopt=0.6.2
   - ipywidgets=8.1.5
-  - ipython>=7.31.1,<8.0
+  - ipython
   - jupyterlab=4.2.5
   - jupyterlab_server=2.27.3
   - jupyterlab_widgets=3.0.13
@@ -38,5 +38,4 @@ dependencies:
   - pyogrio=0.9.0
   - pip:
     - "setuptools<82"
-    - click
     - otter-grader==3.1.4
