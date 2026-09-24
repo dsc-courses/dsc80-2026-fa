@@ -16,7 +16,7 @@ nav_order: 1
 [syllabus]: syllabus
 [piazza]: https://piazza.com/ucsd/spring2026/dsc80
 [gradescope]: https://www.gradescope.com/courses/1289847
-[github]: https://github.com/dsc-courses/dsc80-2026-sp
+[github]: https://github.com/dsc-courses/dsc80-2026-fa
 [welcome-survey]: https://forms.gle/WoqChddkJZUiTP1v6
 [exam-accommodations]: https://forms.gle/n53ZJc2vQYhD7ZKv6
 <!-- [Jump to the current week](#week-9-modeling-in-practice){: .btn } [Lab Solutions](https://edstem.org/us/courses/51951/discussion/4183397){: .btn .btn-green } -->

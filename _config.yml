@@ -14,9 +14,9 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: DSC 80
-description: DSC 80, Spring 2026 at UC San Diego
+description: DSC 80, Fall 2026 at UC San Diego
 tagline: Practice and Application of Data Science
-baseurl: '/dsc80-2026-sp' 
+baseurl: '/dsc80-2026-fa'
 url: 'https://dsc-courses.github.io' 
 author: DSC 80 course staff
 exclude: ["Gemfile", "Gemfile.lock", "LICENSE", "README.md", "AGENTS.md", "preview.sh"]
@@ -29,7 +29,7 @@ heading_anchors: true
 permalink: pretty
 aux_links:
   💻 GitHub:
-    - 'https://github.com/dsc-courses/dsc80-2026-sp'
+    - 'https://github.com/dsc-courses/dsc80-2026-fa'
   🙋 Piazza:
     - 'https://piazza.com/ucsd/spring2026/dsc80'
   💯 Gradescope:
