@@ -7,11 +7,11 @@ nav_order: 3
 
 # 📆 Calendar
 
-Lectures are held in Franklin Antonio Hall (FAH) </a> 1301.
+Lectures are held in Franklin Antonio Hall (FAH) 1301.
 
 
 All office hours are held in person. Office hours held from Monday through Friday are held in [Halıcıoğlu Data Science Institute](https://map.concept3d.com/?id=1005#!m/246301) 155, or Franklin Antonio Hall (please refer to the specific calendar event for details).
 
 Saturday office hours, if any, will be held in a different location; see the corresponding calendar events for details.
 
-<iframe src="https://calendar.google.com/calendar/u/0?cid=Y19hNDI1Nzg1NTY1ZmI4YWQzODFjOTQ5MjE2ODEyYzJiNjhmOTIxMTQ3ZmUwNDQ4MTE3ZjAzMjI3YjNhYWU1MGYyQGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
+<iframe title="DSC 80 course calendar" src="https://calendar.google.com/calendar/embed?src=c_a425785565fb8ad381c949216812c2b68f921147fe0448117f03227b3aae50f2%40group.calendar.google.com&amp;ctz=America%2FLos_Angeles&amp;mode=WEEK&amp;showPrint=0" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
