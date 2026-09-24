@@ -5,4 +5,10 @@
 /.jekyll-metadata
 /.sass-cache/
 
-__pycache__
+# Python and notebook caches
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+
+# macOS metadata
+.DS_Store
