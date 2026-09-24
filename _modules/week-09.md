@@ -21,7 +21,6 @@ days:
     type: proj
     title: Final Project Checkpoint 2
     reading: ''
-    note: Due date TBD — approximately Nov 25.
     url: "/proj04/"
     blank: https://github.com/dsc-courses/dsc80-2026-fa/blob/main/projects/proj04/template.ipynb
 - date: '2026-11-26'

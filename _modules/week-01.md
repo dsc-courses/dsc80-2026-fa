@@ -23,5 +23,4 @@ days:
   - name: DISC
     type: disc
     title: Discussion
-    note: 1:00–1:50 p.m. Pacific; topic and materials TBD.
 ---

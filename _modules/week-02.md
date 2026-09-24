@@ -31,10 +31,8 @@ days:
     type: proj
     title: Project 1 checkpoint
     reading: ''
-    note: Due date TBD — approximately Oct 9.
     blank: https://github.com/dsc-courses/dsc80-2026-fa/blob/main/projects/proj01/project.ipynb
   - name: DISC
     type: disc
     title: Discussion
-    note: 1:00–1:50 p.m. Pacific; topic and materials TBD.
 ---

@@ -6,9 +6,9 @@ days:
   events:
   - name: EXAM
     type: exam
-    title: Midterm Exam — TBD
-    note: Approximately Nov 3 (Week 6); date, time, and location TBD.
-  date_label: TBD — around Nov 3
+    title: Midterm Exam
+    note: Location TBD.
+  date_label: Nov 3
 - date: '2026-11-04'
   events:
   - name: LAB 5
@@ -30,10 +30,8 @@ days:
     type: proj
     title: Project 3 checkpoint
     reading: ''
-    note: Due date TBD — approximately Nov 6.
     blank: https://github.com/dsc-courses/dsc80-2026-fa/blob/main/projects/proj03/project.ipynb
   - name: DISC
     type: disc
     title: Discussion
-    note: 1:00–1:50 p.m. Pacific; topic and materials TBD.
 ---

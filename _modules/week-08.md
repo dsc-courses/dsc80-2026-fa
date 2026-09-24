@@ -31,11 +31,9 @@ days:
     type: proj
     title: Final Project Checkpoint 1
     reading: ''
-    note: Due date TBD — approximately Nov 20.
     url: "/proj04/"
     blank: https://github.com/dsc-courses/dsc80-2026-fa/blob/main/projects/proj04/template.ipynb
   - name: DISC
     type: disc
     title: Discussion
-    note: 1:00–1:50 p.m. Pacific; topic and materials TBD.
 ---

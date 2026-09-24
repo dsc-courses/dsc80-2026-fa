@@ -34,10 +34,8 @@ days:
     type: proj
     title: Project 3
     reading: ''
-    note: Due date TBD — approximately Nov 13.
     blank: https://github.com/dsc-courses/dsc80-2026-fa/blob/main/projects/proj03/project.ipynb
   - name: DISC
     type: disc
     title: Discussion
-    note: 1:00–1:50 p.m. Pacific; topic and materials TBD.
 ---
