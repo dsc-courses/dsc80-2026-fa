@@ -1,33 +1,39 @@
 ---
-title: "Week 9 \u2013 Modeling in Practice"
+title: Week 9 – Trees and Thanksgiving
 weekNumber: 9
 days:
-- date: '2026-05-26'
+- date: '2026-11-24'
   events:
-  - name: LEC 16
+  - name: LEC 17
     type: lecture
-    title: Hyperparameters, Cross-Validation, and Decision Trees
-    reading: '[Ch. 16](https://learningds.org/ch/16/ms_intro.html)'
-    blank: https://github.com/dsc-courses/dsc80-2026-sp/blob/main/lectures/lec16/lec16.ipynb
-    filled: /resources/lectures/lec16/lec16.html
-- date: '2026-05-27'
+    title: Decision Trees and Random Forests
+    reading: "[Ch. 16](https://learningds.org/ch/16/ms_intro.html)"
+    blank: https://github.com/dsc-courses/dsc80-2026-fa/blob/main/lectures/lec17/lec17.ipynb
+    filled: "/resources/lectures/lec17/lec17.html"
+- date: '2026-11-25'
   events:
   - name: LAB 8
     type: lab
     title: Modeling and Feature Engineering
     reading: ''
-- date: '2026-05-28'
-  events:
-  - name: LEC 17
-    type: lecture
-    title: Decision Trees and Random Forests
-    reading: '[A1](resources/other/15097-decision-trees.pdf)'
-    blank: https://github.com/dsc-courses/dsc80-2026-sp/blob/main/lectures/lec17/lec17.ipynb
-    filled: /resources/lectures/lec17/lec17.html
-- date: '2026-05-29'
-  events:
+    note: Due date TBD — approximately Nov 25.
+    blank: https://github.com/dsc-courses/dsc80-2026-fa/blob/main/labs/lab08/lab.ipynb
   - name: FINAL PROJ
     type: proj
     title: Final Project Checkpoint 2
     reading: ''
+    note: Due date TBD — approximately Nov 25.
+    url: "/proj04/"
+    blank: https://github.com/dsc-courses/dsc80-2026-fa/blob/main/projects/proj04/template.ipynb
+  date_label: TBD — around Nov 25
+- date: '2026-11-26'
+  events:
+  - name: HOLIDAY
+    type: holiday
+    title: Thanksgiving break — no classes
+- date: '2026-11-27'
+  events:
+  - name: HOLIDAY
+    type: holiday
+    title: Thanksgiving break — no classes
 ---

@@ -1,35 +1,42 @@
 ---
-title: "Week 3 \u2013 Messy Data, Statistical Testing"
+title: Week 3 – Missing Values
 weekNumber: 3
 days:
-- date: '2026-04-14'
+- date: '2026-10-13'
   events:
-  - name: LEC 5
+  - name: LEC 6
     type: lecture
-    title: Exploring and Cleaning Data
-    reading: '[Ch. 9](https://learningds.org/ch/09/wrangling_intro.html) and [10](https://learningds.org/ch/10/eda_intro.html)'
-    blank: https://github.com/dsc-courses/dsc80-2026-sp/blob/main/lectures/lec05/lec05.ipynb
-    filled: /resources/lectures/lec05/lec05.html
-- date: '2026-04-15'
+    title: Hypothesis and Permutation Testing
+    reading: "[Ch. 17](https://learningds.org/ch/17/inf_pred_gen_intro.html)"
+    blank: https://github.com/dsc-courses/dsc80-2026-fa/blob/main/lectures/lec06/lec06.ipynb
+    filled: "/resources/lectures/lec06/lec06.html"
+- date: '2026-10-14'
   events:
   - name: LAB 2
     type: lab
     title: More Pandas
     reading: ''
-    blank: https://github.com/dsc-courses/dsc80-2026-sp/blob/main/labs/lab02/lab.ipynb
-- date: '2026-04-16'
+    note: Due date TBD — approximately Oct 14.
+    blank: https://github.com/dsc-courses/dsc80-2026-fa/blob/main/labs/lab02/lab.ipynb
+  date_label: TBD — around Oct 14
+- date: '2026-10-15'
   events:
-  - name: LEC 6
+  - name: LEC 7
     type: lecture
-    title: Hypothesis and Permutation Testing
-    reading: '[Ch. 17](https://learningds.org/ch/17/inf_pred_gen_intro.html)'
-    blank: https://github.com/dsc-courses/dsc80-2026-sp/blob/main/lectures/lec06/lec06.ipynb
-    filled: /resources/lectures/lec06/lec06.html
-- date: '2026-04-17'
+    title: Missingness Mechanisms
+    reading: "[A1](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4121561/), [A2](https://stefvanbuuren.name/fimd/sec-MCAR.html)"
+    blank: https://github.com/dsc-courses/dsc80-2026-fa/blob/main/lectures/lec07/lec07.ipynb
+    filled: "/resources/lectures/lec07/lec07.html"
+- date: '2026-10-16'
   events:
   - name: PROJ 1
     type: proj
     title: Project 1
     reading: ''
-    blank: https://github.com/dsc-courses/dsc80-2026-sp/blob/main/projects/proj01/project.ipynb
+    note: Due date TBD — approximately Oct 16.
+    blank: https://github.com/dsc-courses/dsc80-2026-fa/blob/main/projects/proj01/project.ipynb
+  - name: DISC
+    type: disc
+    title: Discussion
+    note: 1:00–1:50 p.m. Pacific; topic and materials TBD.
 ---

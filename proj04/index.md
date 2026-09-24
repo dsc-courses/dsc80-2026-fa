@@ -88,7 +88,7 @@ Before choosing a dataset, read the rest of this page to see what's required of 
 
 Before beginning your analysis, you'll need to set up a few things.
 
-1. Pull the latest version of the [`dsc80-2026-sp`](https://github.com/dsc-courses/dsc80-2026-sp/) repo. Within the `projects/project04` folder, there is a `template.ipynb` notebook that you will use as a template for the project. If you delete the file or want another copy of the template, you can re-download it from [here](https://github.com/dsc-courses/dsc80-2026-sp/blob/main/projects/project04/template.ipynb). **This is where your analysis will live; you will submit this entire notebook to us.**
+1. Pull the latest version of the [`dsc80-2026-fa`](https://github.com/dsc-courses/dsc80-2026-fa/) repo. Within the `projects/proj04` folder, there is a `template.ipynb` notebook that you will use as a template for the project. If you delete the file or want another copy of the template, you can re-download it from [here](https://github.com/dsc-courses/dsc80-2026-fa/blob/main/projects/proj04/template.ipynb). **This is where your analysis will live; you will submit this entire notebook to us.**
 1. Select **one** of the six [datasets mentioned above](#choosing-a-dataset), download it, and load it into your template notebook.
 
 Once you have your dataset loaded in your notebook, it's time for you to find meaning in the real-world data you've collected! Follow the steps below.
@@ -195,7 +195,7 @@ If you'd like to follow the official [GitHub Pages & Jekyll](https://docs.github
 
 1. Create a GitHub account, if you don't already have one.
 1. Create a new GitHub repository for your project.
-   - GitHub Pages sites live at `<username>.github.io/<reponame>` (for instance, the site for [github.com/dsc-courses/dsc80-2026-sp](https://github.com/dsc-courses/dsc80-2026-sp) is [dsc-courses.github.io/dsc80-2026-sp](https://dsc-courses.github.io/dsc80-2026-sp)).
+   - GitHub Pages sites live at `<username>.github.io/<reponame>` (for instance, the site for [github.com/dsc-courses/dsc80-2026-fa](https://github.com/dsc-courses/dsc80-2026-fa) is [dsc-courses.github.io/dsc80-2026-fa](https://dsc-courses.github.io/dsc80-2026-fa)).
    - As such, **don't** include "DSC 80" or "Final Project" in your repo's name – this looks unprofessional to future employers, and gives you a generic-sounding URL. Instead, mention that this is a project for DSC 80 at UCSD in the repository description.
    - **Make sure to make your repository public.**
    - Select "ADD a README file." This ensures that your repository starts off non-empty, which is necessary to continue.
@@ -237,7 +237,7 @@ Note that you're free to use any Jekyll theme, not just the ones that appear [he
 
 ### Step 3: Embedding Content
 
-Now comes the interesting part – actually including content in your site. The [Markdown cheat sheet](https://www.markdownguide.org/cheat-sheet/) contains tips on how to format text and other page components in Markdown (and if you'd benefit by seeing an example, you could always look at the Markdown source of [this very page](https://raw.githubusercontent.com/dsc-courses/dsc80-2026-sp/gh-pages/proj04/index.md) – meta!).
+Now comes the interesting part – actually including content in your site. The [Markdown cheat sheet](https://www.markdownguide.org/cheat-sheet/) contains tips on how to format text and other page components in Markdown (and if you'd benefit by seeing an example, you could always look at the Markdown source of [this very page](https://raw.githubusercontent.com/dsc-courses/dsc80-2026-fa/gh-pages/proj04/index.md) – meta!).
 
 What will be a bit trickier is embedding `plotly` plots in your site so that they are interactive. Note that you are **required** to do this, you cannot simply take screenshots of plots from your notebooks and embed them in your site. Here's how to embed a `plotly` plot directly in your site.
 

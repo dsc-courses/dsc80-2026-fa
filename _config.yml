@@ -31,7 +31,7 @@ aux_links:
   💻 GitHub:
     - 'https://github.com/dsc-courses/dsc80-2026-fa'
   🙋 Piazza:
-    - 'https://piazza.com/ucsd/spring2026/dsc80'
+    - 'https://piazza.com/ucsd/fall2026/dsc80'
   💯 Gradescope:
     - 'https://www.gradescope.com/courses/1289847'
   💪 Practice:
@@ -100,4 +100,3 @@ callouts:
   green:
     title: ""
     color: green
-# Triggering rebuild: Thu Apr  2 23:06:07 PDT 2026

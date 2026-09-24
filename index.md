@@ -14,7 +14,7 @@ nav_order: 1
 {{ site.staffersnobio }}
 
 [syllabus]: syllabus
-[piazza]: https://piazza.com/ucsd/spring2026/dsc80
+[piazza]: https://piazza.com/ucsd/fall2026/dsc80
 [gradescope]: https://www.gradescope.com/courses/1289847
 [github]: https://github.com/dsc-courses/dsc80-2026-fa
 [welcome-survey]: https://forms.gle/WoqChddkJZUiTP1v6
@@ -34,6 +34,7 @@ nav_order: 1
 <!-- {: .green }
 **Welcome to DSC 80! 👋 Make sure to: read the [syllabus][syllabus], check that you can access [Gradescope][gradescope] and [Ed][ed], fill out the [Welcome Survey][welcome-survey], and fill out the [Exam Accommodations Form][exam-accommodations] if you have an exam conflict.** -->
 
-{% for module in site.modules %}
+{% assign modules = site.modules | sort: 'weekNumber' %}
+{% for module in modules %}
 {{ module }}
 {% endfor %}

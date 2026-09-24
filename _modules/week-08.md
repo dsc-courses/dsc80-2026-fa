@@ -1,33 +1,43 @@
 ---
-title: "Week 8 \u2013 Feature Engineering"
+title: Week 8 – Modeling in Practice
 weekNumber: 8
 days:
-- date: '2026-05-19'
+- date: '2026-11-17'
   events:
-  - name: LEC 14
+  - name: LEC 15
     type: lecture
-    title: Feature Engineering
-    reading: '[Ch. 15.7-15.9](https://learningds.org/ch/15/linear_feature_eng.html)'
-    blank: https://github.com/dsc-courses/dsc80-2026-sp/blob/main/lectures/lec14/lec14.ipynb
-    filled: /resources/lectures/lec14/lec14.html
-- date: '2026-05-20'
+    title: Standardization, Multicollinearity, and Generalization
+    reading: "[Ch. 16](https://learningds.org/ch/16/ms_train_test.html), [17.6](https://learningds.org/ch/17/inf_pred_gen_prob.html)"
+    blank: https://github.com/dsc-courses/dsc80-2026-fa/blob/main/lectures/lec15/lec15.ipynb
+    filled: "/resources/lectures/lec15/lec15.html"
+- date: '2026-11-18'
   events:
   - name: LAB 7
     type: lab
     title: Regular Expressions and Text Data
     reading: ''
-- date: '2026-05-21'
+    note: Due date TBD — approximately Nov 18.
+    blank: https://github.com/dsc-courses/dsc80-2026-fa/blob/main/labs/lab07/lab.ipynb
+  date_label: TBD — around Nov 18
+- date: '2026-11-19'
   events:
-  - name: LEC 15
+  - name: LEC 16
     type: lecture
-    title: Standardization, Multicollinearity, and Generalization
-    reading: '[Ch. 16](https://learningds.org/ch/16/ms_train_test.html), [17.6](https://learningds.org/ch/17/inf_pred_gen_prob.html)'
-    blank: https://github.com/dsc-courses/dsc80-2026-sp/blob/main/lectures/lec15/lec15.ipynb
-    filled: /resources/lectures/lec15/lec15.html
-- date: '2026-05-22'
+    title: Hyperparameters, Cross-Validation, and Decision Trees
+    reading: "[Ch. 16](https://learningds.org/ch/16/ms_intro.html)"
+    blank: https://github.com/dsc-courses/dsc80-2026-fa/blob/main/lectures/lec16/lec16.ipynb
+    filled: "/resources/lectures/lec16/lec16.html"
+- date: '2026-11-20'
   events:
   - name: FINAL PROJ
     type: proj
     title: Final Project Checkpoint 1
     reading: ''
+    note: Due date TBD — approximately Nov 20.
+    url: "/proj04/"
+    blank: https://github.com/dsc-courses/dsc80-2026-fa/blob/main/projects/proj04/template.ipynb
+  - name: DISC
+    type: disc
+    title: Discussion
+    note: 1:00–1:50 p.m. Pacific; topic and materials TBD.
 ---

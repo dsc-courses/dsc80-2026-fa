@@ -19,9 +19,9 @@ nav_order: 2
 
 <!-- prettier-ignore-end -->
 
-[piazza]: https://piazza.com/ucsd/spring2026/dsc80
+[piazza]: https://piazza.com/ucsd/fall2026/dsc80
 [gradescope]: https://www.gradescope.com/courses/1289847
-[github]: https://github.com/dsc-courses/dsc80-2026-sp
+[github]: https://github.com/dsc-courses/dsc80-2026-fa
 [welcome-survey]: https://forms.gle/WoqChddkJZUiTP1v6
 [exam-accommodations]: https://forms.gle/n53ZJc2vQYhD7ZKv6
 
@@ -44,7 +44,7 @@ learning and statistics courses.
 
 ## Getting Started 💻
 
-The course website, [dsc80.com](https://dsc80.com), will contain links to all
+The course website, [dsc-courses.github.io/dsc80-2026-fa](https://dsc-courses.github.io/dsc80-2026-fa/), will contain links to all
 course content. There are also a few things you'll need to do to get set up.
 
 ### Websites
@@ -112,7 +112,7 @@ post instead.**
 
 ### Lectures
 
-Lectures will be held in-person on Tuesdays and Thursdays from 9:30-10:50AM in <a href="https://map.concept3d.com/?id=1005#!ct/18312?s/PCYNH_Main">PCYNH</a> 106.
+Lectures will be held in-person on Tuesdays and Thursdays from 6:30–7:50 p.m. Pacific in Franklin Antonio Hall (FAH) 1301, starting Thursday, September 24, 2026.
 Attendance is not required, **though you are encouraged to attend in-person if you are able to**. Lectures will be podcasted.
 
 Lecture notebooks will be your main resource in this class. You can access them,
@@ -132,7 +132,7 @@ them to supplement your understanding!
 
 ### Discussions
 
-In each discussion, the TA will prepare a worksheet of exam questions. Discussions will be held in-person on Fridays from 5:00-5:50PM in <a href="https://map.concept3d.com/?id=1005#!ct/18312?s/YORK_Main">YORK</a> 2622. You are encouraged to attend the discussion sections, but it is not required.
+In each discussion, the TA will prepare a worksheet of exam questions. Discussions will be held in-person on Fridays from 1:00–1:50 p.m. Pacific, starting September 25, 2026 (location TBD). There is no discussion during Thanksgiving break on November 27. You are encouraged to attend the discussion sections, but it is not required.
 
 ### Labs
 
@@ -225,9 +225,9 @@ schedule (which is subject to change in any given week):
 This class has one Midterm Exam and one Final Exam. Exams are cumulative,
 though the Final Exam will emphasize material after the Midterm Exam.
 
-- **Final Exam:** June 9, 2026, 8:00-10:59AM, PCYNH 106.
+- **Final Exam:** TBD — approximately December 5–12, 2026 (finals week). Exact date, time, and location TBD.
 
-- **Midterm Exam**: Tuesday, May 5th (Week 6) during lecture, PCYNH 106.
+- **Midterm Exam:** TBD — approximately November 3, 2026 (Week 6). Exact date, time, and location TBD.
 
 Both exams will be administered in-person. If you have conflicts with either of the exams, please let us know on the [Exam Accommodations Form][exam-accommodations].
 
