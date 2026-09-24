@@ -16,9 +16,7 @@ days:
     type: lab
     title: Regular Expressions and Text Data
     reading: ''
-    note: Due date TBD — approximately Nov 18.
     blank: https://github.com/dsc-courses/dsc80-2026-fa/blob/main/labs/lab07/lab.ipynb
-  date_label: TBD — around Nov 18
 - date: '2026-11-19'
   events:
   - name: LEC 16

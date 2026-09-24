@@ -15,9 +15,7 @@ days:
     type: lab
     title: Missing Values and Imputation
     reading: ''
-    note: Due date TBD — approximately Nov 4.
     blank: https://github.com/dsc-courses/dsc80-2026-fa/blob/main/labs/lab05/lab.ipynb
-  date_label: TBD — around Nov 4
 - date: '2026-11-05'
   events:
   - name: LEC 12

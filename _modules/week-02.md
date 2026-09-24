@@ -16,9 +16,7 @@ days:
     type: lab
     title: Python, NumPy, and Pandas
     reading: ''
-    note: Due date TBD — approximately Oct 7.
     blank: https://github.com/dsc-courses/dsc80-2026-fa/blob/main/labs/lab01/lab.ipynb
-  date_label: TBD — around Oct 7
 - date: '2026-10-08'
   events:
   - name: LEC 5

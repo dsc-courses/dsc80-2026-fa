@@ -27,7 +27,6 @@ days:
     type: lab
     title: HTTP and HTML
     reading: ''
-    note: Due date TBD — approximately Nov 12.
     blank: https://github.com/dsc-courses/dsc80-2026-fa/blob/main/labs/lab06/lab.ipynb
 - date: '2026-11-13'
   events:

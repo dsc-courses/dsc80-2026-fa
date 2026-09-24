@@ -16,9 +16,7 @@ days:
     type: lab
     title: Pipelines
     reading: ''
-    note: Due date TBD — approximately Dec 2.
     blank: https://github.com/dsc-courses/dsc80-2026-fa/blob/main/labs/lab09/lab.ipynb
-  date_label: TBD — around Dec 2
 - date: '2026-12-03'
   events:
   - name: LEC 19

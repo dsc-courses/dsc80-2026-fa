@@ -16,9 +16,7 @@ days:
     type: lab
     title: DataFrame Manipulation
     reading: ''
-    note: Due date TBD — approximately Oct 21.
     blank: https://github.com/dsc-courses/dsc80-2026-fa/blob/main/labs/lab03/lab.ipynb
-  date_label: TBD — around Oct 21
 - date: '2026-10-22'
   events:
   - name: LEC 9

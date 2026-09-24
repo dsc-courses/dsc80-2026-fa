@@ -16,9 +16,7 @@ days:
     type: lab
     title: Hypothesis and Permutation Testing
     reading: "[Ch. 17](https://learningds.org/ch/17/inf_pred_gen_intro.html)"
-    note: Due date TBD — approximately Oct 28.
     blank: https://github.com/dsc-courses/dsc80-2026-fa/blob/main/labs/lab04/lab.ipynb
-  date_label: TBD — around Oct 28
 - date: '2026-10-29'
   events:
   - name: LEC 11

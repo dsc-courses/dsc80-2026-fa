@@ -16,9 +16,7 @@ days:
     type: lab
     title: More Pandas
     reading: ''
-    note: Due date TBD — approximately Oct 14.
     blank: https://github.com/dsc-courses/dsc80-2026-fa/blob/main/labs/lab02/lab.ipynb
-  date_label: TBD — around Oct 14
 - date: '2026-10-15'
   events:
   - name: LEC 7

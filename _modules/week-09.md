@@ -16,7 +16,6 @@ days:
     type: lab
     title: Modeling and Feature Engineering
     reading: ''
-    note: Due date TBD — approximately Nov 25.
     blank: https://github.com/dsc-courses/dsc80-2026-fa/blob/main/labs/lab08/lab.ipynb
   - name: FINAL PROJ
     type: proj
@@ -25,7 +24,6 @@ days:
     note: Due date TBD — approximately Nov 25.
     url: "/proj04/"
     blank: https://github.com/dsc-courses/dsc80-2026-fa/blob/main/projects/proj04/template.ipynb
-  date_label: TBD — around Nov 25
 - date: '2026-11-26'
   events:
   - name: HOLIDAY
