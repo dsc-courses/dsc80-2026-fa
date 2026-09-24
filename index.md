@@ -15,7 +15,7 @@ nav_order: 1
 
 [syllabus]: syllabus
 [piazza]: https://piazza.com/ucsd/fall2026/dsc80
-[gradescope]: https://www.gradescope.com/courses/1289847
+[gradescope]: https://www.gradescope.com/courses/1412498
 [github]: https://github.com/dsc-courses/dsc80-2026-fa
 [welcome-survey]: https://forms.gle/1jN27KfoGctbm9do9
 [exam-accommodations]: https://forms.gle/ST99FXMEXEFUy7zG7

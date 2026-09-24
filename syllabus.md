@@ -20,7 +20,7 @@ nav_order: 2
 <!-- prettier-ignore-end -->
 
 [piazza]: https://piazza.com/ucsd/fall2026/dsc80
-[gradescope]: https://www.gradescope.com/courses/1289847
+[gradescope]: https://www.gradescope.com/courses/1412498
 [github]: https://github.com/dsc-courses/dsc80-2026-fa
 [welcome-survey]: https://forms.gle/1jN27KfoGctbm9do9
 [exam-accommodations]: https://forms.gle/ST99FXMEXEFUy7zG7
@@ -62,7 +62,7 @@ You'll need to make accounts on the following sites:
   assignments. Parts of these assignments will be manually graded, but most of
   them will be autograded. You should have received an email invitation for
   Gradescope, but if not please let us know as soon as possible (preferably via
-  Piazza). **The entry code for Gradescope is B5Y365.**
+  Piazza). **The entry code for Gradescope is G7VKND.**
 
 - **GitHub:** Like in DSC 30, you'll _access_ all course content (lecture slides
   and assignments) by _pulling_ our course GitHub repository. [The link to the
