@@ -19,7 +19,7 @@ tagline: Practice and Application of Data Science
 baseurl: '/dsc80-2026-sp' 
 url: 'https://dsc-courses.github.io' 
 author: DSC 80 course staff
-exclude: ["Gemfile", "Gemfile.lock", "LICENSE", "README.md"]
+exclude: ["Gemfile", "Gemfile.lock", "LICENSE", "README.md", "AGENTS.md", "preview.sh"]
 
 # Theme settings
 remote_theme: just-the-docs/just-the-docs@v0.4.0.rc3
@@ -86,6 +86,7 @@ compress_html:
   profile: false
 
 plugins:
+  - jekyll-remote-theme
   - jekyll-seo-tag
 
 # callouts
