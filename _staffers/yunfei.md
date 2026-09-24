@@ -1,9 +1,9 @@
 ---
-name: Tanjid Hasan Tonmoy
+name: Yunfei Luo
 role: TA
 pronouns: He/Him
-email: mtonmoy@ucsd.edu
-photo: /assets/staff-images/tanjid.jpg
+email: yul268@ucsd.edu
+photo: /assets/staff-images/yunfei.jpg
 description: 4th year, Ph.D., Data Science
 hometown:
 askabout:
