@@ -7,7 +7,7 @@ days:
   - name: EXAM
     type: exam
     title: Midterm Exam
-    note: Location TBD.
+    note: In Class.
   date_label: Nov 3
 - date: '2026-11-04'
   events:

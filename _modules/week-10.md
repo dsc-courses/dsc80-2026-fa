@@ -32,7 +32,4 @@ days:
     reading: ''
     url: "/proj04/"
     blank: https://github.com/dsc-courses/dsc80-2026-fa/blob/main/projects/proj04/template.ipynb
-  - name: DISC
-    type: disc
-    title: Discussion
 ---
