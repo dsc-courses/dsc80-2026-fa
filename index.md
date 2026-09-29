@@ -21,7 +21,7 @@ nav_order: 1
 [exam-accommodations]: https://forms.gle/ST99FXMEXEFUy7zG7
 <!-- [Jump to the current week](#week-9-modeling-in-practice){: .btn } [Lab Solutions](https://edstem.org/us/courses/51951/discussion/4183397){: .btn .btn-green } -->
 
-[Podcasts](https://podcast.ucsd.edu/){: .btn }
+[Podcasts](https://podcast.ucsd.edu/watch/fa26/dsc080_001-000-le){: .btn }
 [Welcome Survey][welcome-survey]{: .btn }
 [Exam Accommodations Form][exam-accommodations]{: .btn }
 
