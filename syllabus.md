@@ -227,7 +227,7 @@ though the Final Exam will emphasize material after the Midterm Exam.
 
 - **Final Exam:** TBD — approximately December 5–12, 2026 (finals week). Exact date, time, and location TBD.
 
-- **Midterm Exam:** TBD — approximately November 3, 2026 (Week 6). Exact date, time, and location TBD.
+- **Midterm Exam:** November 3, 2026 (Week 6), in class from 6:30–7:50 p.m. Pacific in Franklin Antonio Hall (FAH) 1301.
 
 Both exams will be administered in-person. If you have conflicts with either of the exams, please let us know on the [Exam Accommodations Form][exam-accommodations].
 

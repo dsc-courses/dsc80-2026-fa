@@ -7,7 +7,7 @@ days:
   - name: EXAM
     type: exam
     title: Midterm Exam
-    note: In Class.
+    note: In class, 6:30–7:50 p.m. Pacific in Franklin Antonio Hall (FAH) 1301.
   date_label: Nov 3
 - date: '2026-11-04'
   events:
